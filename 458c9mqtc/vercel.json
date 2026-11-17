@@ -1,7 +1,0 @@
-{
-  "cleanUrls": true,
-  "routes": [
-    { "src": "/(.*)", "dest": "/458c9mqtc/$1" }
-  ]
-}
-
